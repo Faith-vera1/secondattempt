@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+.mv{
+   position: relative;
+   right: 190px; 
+
+}
+input{
+    padding-left: 50px
+
+}
+.entire{
+   width: 20%;
+   margin: auto;
+   margin-top: 15rem;
+}
